@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .first-page{
-    background-image: url(/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.39.26.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.39.26.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@
     margin-bottom: 40px;
 }
 .tp-img1{
-    background-image: url(images/WhatsApp\ Image\ 2022-07-20\ at\ 00.01.04.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-20\ at\ 00.01.04.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@
     padding: 35px;
 }
 .tp-img2{
-    background-image: url(images/WhatsApp\ Image\ 2022-07-20\ at\ 00.01.00.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-20\ at\ 00.01.00.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -95,7 +95,7 @@
     font-size: 25px;
 }
 .fif-img1{
-    background-image: url(/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.56.03.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.56.03.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@
     border-radius: 10px;
 }
 .fif-img2{
-    background-image: url(/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.55.53.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.55.53.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@
     border-radius: 10px;
 }
 .fif-img3{
-    background-image: url(/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.56.08.jpeg);
+    background-image: url(/invitation/images/WhatsApp\ Image\ 2022-07-19\ at\ 23.56.08.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -153,7 +153,7 @@
     padding: 25px;
 }
 .sev-img1{
-    background-image: url(images/3cc493beab17c5b8f8693e85fc1f7ac89b8f6874_original.jpeg);
+    background-image: url(/invitation/images/3cc493beab17c5b8f8693e85fc1f7ac89b8f6874_original.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -163,7 +163,7 @@
     border-radius: 10px;
 }
 .sev-img2{
-    background-image: url(images/H3eb696f8522f44a2a1898328c53a0094h.jpg_350x350xz.jpg);
+    background-image: url(/invitation/images/H3eb696f8522f44a2a1898328c53a0094h.jpg_350x350xz.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@
     border-radius: 10px;
 }
 .sev-img3{
-    background-image: url(images/1646943067_47-krasavica-info-p-belaya-sumka-s-tsvetami-devushka-krasivo-f-52.jpg);
+    background-image: url(/invitation/images/1646943067_47-krasavica-info-p-belaya-sumka-s-tsvetami-devushka-krasivo-f-52.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ input[type="submit"]{
    
 }
 .modal-body{
-    background-image: url(/images/couple-7065652_960_720.jpg);
+    background-image: url(/invitation/images/couple-7065652_960_720.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
